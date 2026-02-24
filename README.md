@@ -19,3 +19,6 @@
 
   <li><strong>Context: </strong>The context includes the <code>ATMDispenseChain</code> class, which manages the chain of handlers and ensures that the request is passed along the chain until it is handled.</li>
 </ol>
+
+<hr>
+### UML Diagram:
